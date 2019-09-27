@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700&display=swap&subset=cyrillic');
+
+body {
+  width: 600px;
+  margin-left: auto;
+  margin-top: 40px;
+  margin-right: auto;
+  margin-bottom: 80px;
+  font-size: 14px;
+  font-family: pt sans;
+}
+
+h2 {
+  margin-top: 32px;
+}
+
+p {
+  font-size: 14px;
+}
+
+h3 {
+  margin-left: 210px;
+}
+
+.contents {
+  width: 530px;
+  height: 475px;
+  background-color: #efefef;
+  border: 1px solid black;
+  padding-top: 5px;
+  padding-right: 25px;
+  line-height: 20px;
+}
+
+.contentsul {
+  list-style-type: none;
+  color: blue;
+}
+
+span {
+  color: black;
+}
+
+.section {
+  margin-top: 20px;
+}
